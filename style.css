@@ -3,7 +3,8 @@ img {
 }
 body {
     text-align: center;
-    font-family:'Times New Roman', Times, serif;
-    background-color: lightblue;
-    color: brown;
+    background-color: brown;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14;
+    color: black;
 }
